@@ -1,1 +1,1 @@
-School project, basic data visualisation with python code
+Tvorba datasetů a vizualizací grafů z Excel tabulky pomocí Pythonu 
